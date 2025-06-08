@@ -31,23 +31,19 @@ A responsive and interactive movie search application built with React and Redux
 
 ## 🧱 Folder Structure
 
-src/
-│
-├── app/ # Redux store
-│
-├── features/movies/ # Redux slice, components
-│ ├── MovieList.jsx
-│ ├── SearchBar.jsx
-│ ├── MovieDetails.jsx
-│ └── moviesSlice.js
-│
-├── components/ # Reusable UI components
-│ ├── Spinner.jsx
-│ ├── ErrorMessage.jsx
-│ └── EmptyState.jsx
-│
-├── App.js # Main App
-└── index.js # Entry Point
+movie-search-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── features/movies/
+│   │   ├── MovieList.jsx
+│   │   ├── MovieDetails.jsx
+│   │   ├── SearchBar.jsx
+│   │   └── moviesSlice.js
+│   └── App.jsx
+├── package.json
+└── tailwind.config.js
+
 
 ---
 
