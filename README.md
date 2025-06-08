@@ -30,7 +30,7 @@ A responsive and interactive movie search application built with React and Redux
 ---
 
 ## 🧱 Folder Structure
-
+```
 movie-search-app/
 ├── public/
 ├── src/
@@ -43,7 +43,7 @@ movie-search-app/
 │   └── App.jsx
 ├── package.json
 └── tailwind.config.js
-
+```
 
 ---
 
@@ -100,8 +100,10 @@ https://www.omdbapi.com/?apikey=11f79808
 
 ## 📸 Demo Screenshot
 - Movies List
+  
 ![Screenshot 2025-06-08 112044](https://github.com/user-attachments/assets/58c27b45-1581-4181-98aa-28a5c2ac9568)
 
 - Movies Detail
+  
 ![Screenshot 2025-06-08 112110](https://github.com/user-attachments/assets/7e51c58a-9951-41f5-b1ef-12cc1075d817)
 
