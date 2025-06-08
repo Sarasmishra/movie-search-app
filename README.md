@@ -79,5 +79,33 @@ src/
 ```bash
 git clone https://github.com/your-username/movie-search-app-redux.git
 cd movie-search-app-redux
+```
 ### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Start the development server
+
+```bash
+npm start
+```
+
+### 4. Build for production
+```bash
+npm run build
+```
+
+## 🔐 API Used
+- OMDb API
+- Use your own API key or the free one used during development:
+```bash
+https://www.omdbapi.com/?apikey=11f79808
+```
+
+## 📸 Demo Screenshot
+- Movies List
+![Screenshot 2025-06-08 112044](https://github.com/user-attachments/assets/58c27b45-1581-4181-98aa-28a5c2ac9568)
+
+- Movies Detail
+![Screenshot 2025-06-08 112110](https://github.com/user-attachments/assets/7e51c58a-9951-41f5-b1ef-12cc1075d817)
 
